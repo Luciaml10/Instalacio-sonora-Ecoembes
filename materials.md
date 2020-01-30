@@ -16,4 +16,7 @@ Artificiales: Papel de aluminio, motores, placas de metal, plástico, baterías,
 
 ## Grup
 
+#### Titulo Wind Touch
+Tras presentar al grupo nuestro trabajo se ha clasificado igual que lo que hemos realizado Paqui y yo en parejas.
+
 ## Classe
