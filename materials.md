@@ -12,7 +12,7 @@ Artificiales: Papel de aluminio, motores, placas de metal, plástico, baterías,
 
 #### Concepto: “ruido” de la contaminación 
 
-## Acción: La hace el viento
+#### Acción: La hace el viento
 
 ## Grup
 
