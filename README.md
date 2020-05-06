@@ -10,5 +10,6 @@
 [''fotografía''](1.jpg)
 [''fotografía''](2.jpg)
 [''fotografía''](3.jpg)
+[''memoria''](3.jpg)
 
 ### 5 Muntatge i documentació
