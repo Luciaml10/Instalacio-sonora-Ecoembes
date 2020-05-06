@@ -7,4 +7,7 @@
 [practica 1. Análisis dels materials](materials.md)
 ### 3 Taller
 ### 4 Taller
+[imagen1] (1.jpg)
+[imagen1] (2.jpg)
+[imagen1] (2.jpg)
 ### 5 Muntatge i documentació
