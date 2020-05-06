@@ -10,6 +10,6 @@
 [''fotografía''](1.jpg)
 [''fotografía''](2.jpg)
 [''fotografía''](3.jpg)
-[''memoria''](3.jpg)
+[''memoria''](memoria_ecoembes_luciaypaqui.pdf)
 
 ### 5 Muntatge i documentació
