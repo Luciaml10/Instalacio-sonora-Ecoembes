@@ -8,5 +8,7 @@
 ### 3 Taller
 ### 4 Taller
 [''fotografía''](1.jpg)
-[''full de paper mp4''](p4.mp4)
+[''fotografía''](2.jpg)
+[''fotografía''](3.jpg)
+
 ### 5 Muntatge i documentació
